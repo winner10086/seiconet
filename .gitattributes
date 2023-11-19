@@ -1,0 +1,2 @@
+2.6._Example/AlexNet_model/AlexNet.pth filter=lfs diff=lfs merge=lfs -text
+2.6._Example/SeiCoNet/modified_net/modified_model_deReLu_modweight.pth filter=lfs diff=lfs merge=lfs -text
