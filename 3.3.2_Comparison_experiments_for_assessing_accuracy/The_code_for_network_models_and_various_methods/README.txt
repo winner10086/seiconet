@@ -1,0 +1,2 @@
+When using the CAM series method to generate saliency maps, it is necessary to import AlexNet trained weight files ("AlexNet. pth") into their respective code files
+These weight files are already included in "3.3.1 Relationship experiments for evaluating ability", just search by category
